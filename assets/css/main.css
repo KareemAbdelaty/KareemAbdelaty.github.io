@@ -2386,6 +2386,11 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+		.image.fit2 {
+			display: block;
 			margin: 10em 0 2em 0;
 			width: 100%;
 		}
